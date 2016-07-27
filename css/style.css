@@ -1,0 +1,182 @@
+/* Inserta tu código aqui */
+.logo {
+	width: 90px;
+	height: 90px;
+	display: block;
+	margin-top: 10px;
+}
+
+.row {
+	text-align: center;
+}
+
+.header {
+	background-color: #333333;
+	width: 100%;
+	height: 150px;
+	padding-top: 15px;
+}
+
+.nav { 
+	float: left;
+	list-style: none;
+	margin-top: 45px;
+}
+
+.menu {
+	float: left;
+	font-family: Oswald;
+	font-size: 18px;
+	margin-right: 35px;
+}
+
+.menu a {
+	display: block;
+	color: white;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background-color: #585858;
+	padding: 7px;
+}
+
+.section-new {
+	background-color: #EEEEEE;
+	height: 320px;
+	padding-top: 20px;
+}
+
+.section-movies {
+	margin-bottom: 30px;
+	margin-top: 20px;
+}
+
+.titulo {
+	margin: 20px;
+	font-size: 20px;
+}
+
+.link {
+	text-decoration: none;
+	font-size: 15px;
+	margin-left: -30px;
+}
+
+.imagenes-new {
+	border: 4px solid white;
+	clear: both;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.texto{
+	color: blue;
+}
+
+.imagenes-movies {
+	border: 3px solid #E0DEDE;
+	width: 110px;
+	height: 110px;
+}
+
+.margen {
+	padding-top: 20px;
+}
+
+.lista {
+	list-style: none;
+	font-size: 15px;
+	margin-top: 15px;
+}
+
+.lista-icons a {
+	text-decoration: none;
+	color: #3366AF;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.lista-icons a:hover, .link:hover, .texto:hover, .band-link:hover {
+	color: red;
+}
+
+.border {
+	border: 1px solid #DDDDDD;
+}
+
+.subtitulo {
+	font-family: Verdana;
+	font-weight: bold;
+	padding-right: 60px;
+}
+
+.lista-icons {
+	padding-right: 60px;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.align {
+	padding-right: 115px;
+}
+
+.final {
+	margin-top: -40px;
+	margin-bottom: 30px;
+}
+
+.band {
+	display: inline-block;
+	text-align: left;
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.band-link {
+	text-decoration: none;
+}
+
+footer {
+	background-color: #585858;
+	height: 200px;
+}
+
+p {
+	color: white;
+	font-family: Verdana;
+	font-size: 15px;
+}
+
+.footer {
+	padding: 30px;
+}
+
+.footer-link {
+	text-decoration: none;
+	color: #CCCCC4;
+}
+
+.footer-link:hover {
+	color: white;
+}
+
+.enlaces {
+	list-style: none;
+	float: left;
+	margin-top: 20px;
+}
+
+.enlaces .footer-link {
+	margin-left: 50px;
+}
+
+.copy {
+	margin-top: 60px;
+	text-align: center;
+	color: #8E9999;
+	font-size: 12px;
+}
